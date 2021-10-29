@@ -1,0 +1,60 @@
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.deps.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\bin\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfo.cs
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CopyComplete
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.deps.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\bin\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.AssemblyReference.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfoInputs.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfo.cs
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CoreCompileInputs.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CopyComplete
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.deps.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CopyComplete
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.deps.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.AssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.csproj.CopyComplete
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\ref\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Service\obj\Debug\net5.0\Crud.Service.pdb

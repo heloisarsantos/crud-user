@@ -1,0 +1,16 @@
+.container {
+    width: 95vw;
+    height: 95vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin-input {
+    margin-bottom: 30px;
+}
+
+.margin-button {
+    margin: 0 10px;
+}

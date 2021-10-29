@@ -1,0 +1,61 @@
+<p-toast position="top-right"></p-toast>
+
+<p-card header="Cadastrar usuário" [style]="{'margin-top': '20px'}">
+    <form [formGroup]="form">
+        <div class="p-fluid p-grid">
+            <div class="p-field p-col-12 p-md-4 margin-input">
+                <span class="p-float-label">
+                    <input type="text" pInputText formControlName="name">
+                    <label>Nome</label>
+                    <small class="p-error" *ngIf="form.controls.name.errors?.required">
+                        * Campo obrigatório
+                    </small>
+                </span>
+            </div>
+            <div class="p-field p-col-12 p-md-4 margin-input">
+                <span class="p-float-label">
+                    <input type="text" pInputText formControlName="lastName">
+                    <label>Sobrenome</label>
+                    <small class="p-error" *ngIf="form.controls.lastName.errors?.required">
+                        * Campo obrigatório
+                    </small>
+                </span>
+            </div>
+            <div class="p-field p-col-12 p-md-4 margin-input">
+                <span class="p-float-label">
+                    <input type="text" pInputText formControlName="email">
+                    <label>E-mail</label>
+                    <small class="p-error" *ngIf="form.controls.email.errors?.required">
+                        * Campo obrigatório
+                    </small>
+                    <small class="p-error" *ngIf="form.controls.email.errors?.email">
+                        E-mail inválido
+                    </small>
+                </span>
+            </div>
+            <div class="p-field p-col-12 p-md-4 margin-input">
+                <span class="p-float-label">
+                    <p-inputMask formControlName="cpf" mask="999.999.999-99"></p-inputMask>
+                    <label>CPF</label>
+                    <small class="p-error" *ngIf="form.controls.cpf.errors?.required">
+                        * Campo obrigatório
+                    </small>
+                </span>
+            </div>
+            <div class="p-field p-col-12 p-md-4 margin-input">
+                <span class="p-float-label">
+                    <p-inputMask formControlName="phone" mask="(99)99999-9999"></p-inputMask>
+                    <label>Contato</label>
+                    <small class="p-error" *ngIf="form.controls.phone.errors?.required">
+                        * Campo obrigatório
+                    </small>
+                </span>
+            </div>
+        </div>
+    </form>
+
+    <button pButton type="button" label="Cadastrar" icon="pi pi-check" class="p-button-success"
+        (click)="saveUser(form.value)" [disabled]="form.invalid"></button>
+    <button pButton type="button" label="Voltar" icon="pi pi-chevron-left" class="p-button-danger margin-button"
+        [routerLink]="['/list']"></button>
+</p-card>

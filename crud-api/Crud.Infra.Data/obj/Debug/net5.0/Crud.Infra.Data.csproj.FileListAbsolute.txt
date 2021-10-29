@@ -1,0 +1,71 @@
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.deps.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.dev.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfo.cs
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.CopyComplete
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.genruntimeconfig.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.deps.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.dev.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfo.cs
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.genruntimeconfig.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.deps.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.dev.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.CopyComplete
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.genruntimeconfig.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.deps.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.runtimeconfig.dev.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.AssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.csproj.CopyComplete
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\ref\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Infra.Data\obj\Debug\net5.0\Crud.Infra.Data.genruntimeconfig.cache

@@ -1,0 +1,281 @@
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.exe
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.deps.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.dev.json
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfo.cs
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.Manifest.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.xml
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\scopedcss\bundle\Crud.Application.styles.css
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.RazorTargetAssemblyInfo.cache
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.CopyComplete
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.pdb
+C:\Users\heloisa.santos\Documents\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.genruntimeconfig.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.exe
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.deps.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.dev.json
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.AssemblyReference.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfoInputs.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfo.cs
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.CoreCompileInputs.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.Manifest.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.xml
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\scopedcss\bundle\Crud.Application.styles.css
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.RazorTargetAssemblyInfo.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.pdb
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.genruntimeconfig.cache
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Heloisa Rodrigues\Documents\crud\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.exe
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.deps.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.dev.json
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Humanizer.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.Manifest.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.xml
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\scopedcss\bundle\Crud.Application.styles.css
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.RazorTargetAssemblyInfo.cache
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.CopyComplete
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.pdb
+C:\Users\heloisa.santos\Downloads\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.genruntimeconfig.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\appsettings.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.exe
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.deps.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.runtimeconfig.dev.json
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Application.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Humanizer.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Domain.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Infra.Data.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\bin\Debug\net5.0\Crud.Service.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.AssemblyReference.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfoInputs.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.AssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.CoreCompileInputs.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.Manifest.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\staticwebassets\Crud.Application.StaticWebAssets.xml
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\scopedcss\bundle\Crud.Application.styles.css
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.RazorTargetAssemblyInfo.cache
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.csproj.CopyComplete
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\ref\Crud.Application.dll
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.pdb
+C:\Users\heloisa.santos\Downloads\Projeto estudo\angular e .net\crud-api\Crud.Application\obj\Debug\net5.0\Crud.Application.genruntimeconfig.cache

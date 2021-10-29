@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "09wt58p1Qvzy5iFx+DGcUGt22GN5PGjo9VDs6+cabPEuErn83ksvvqAEnWYV6SFS5b58E6drbPZckmBiwhTT5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heloisa.santos\\Downloads\\Projeto estudo\\angular e .net\\crud-api\\Crud.Service\\Crud.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heloisa.santos\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\heloisa.santos\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\heloisa.santos\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\heloisa.santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

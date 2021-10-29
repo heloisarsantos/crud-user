@@ -1,0 +1,88 @@
+<p-toast position="top-right"></p-toast>
+<p-confirmDialog header="Confirmation"></p-confirmDialog>
+
+<p-card header="Lista de usuários" [style]="{'margin-top': '30px'}">
+    <p-table #table [value]="users" [rows]="5" [paginator]="true" responsiveLayout="scroll" [rowHover]="true"
+        styleClass="p-datatable-customers" scrollHeight="flex">
+        <ng-template pTemplate="header">
+            <tr>
+                <th pSortableColumn="name">Nome <p-sortIcon field="name"></p-sortIcon>
+                </th>
+                <th pSortableColumn="lastName">Sobrenome <p-sortIcon field="lastName"></p-sortIcon>
+                </th>
+                <th pSortableColumn="email">E-mail <p-sortIcon field="email"></p-sortIcon>
+                </th>
+                <th pSortableColumn="cpf">CPF <p-sortIcon field="cpf"></p-sortIcon>
+                </th>
+                <th pSortableColumn="phone">Contato <p-sortIcon field="phone"></p-sortIcon>
+                </th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-user>
+            <tr>
+                <td>{{user.name}}</td>
+                <td>{{user.lastName}}</td>
+                <td>{{user.email}}</td>
+                <td>{{user.cpf}}</td>
+                <td>{{user.phone}}</td>
+                <td>
+                    <button pButton icon="pi pi-pencil" class="p-button-success" (click)="editUser(user)"></button>
+                    <button pButton icon="pi pi-trash" class="p-button-danger margin-button"
+                        (click)="deleteUser(user.id)"></button>
+                </td>
+            </tr>
+        </ng-template>
+    </p-table>
+
+    <p-dialog [(visible)]="userDialog" header="Detalhe do usuário" [style]="{width: '500px'}" styleClass="p-fluid">
+        <ng-template pTemplate="content">
+            <div class="p-field margin-input">
+                <label>Nome</label>
+                <input type="text" placeholder="Digite o nome" pInputText id="name" [(ngModel)]="user.name" required
+                    autofocus />
+                <small class="p-error" *ngIf="!user.name">
+                    * Campo obrigatório
+                </small>
+            </div>
+            <div class="p-field margin-input">
+                <label>Sobrenome</label>
+                <input type="text" placeholder="Digite o sobrenome" pInputText id="lastName" [(ngModel)]="user.lastName"
+                    required />
+                <small class="p-error" *ngIf="!user.lastName">
+                    * Campo obrigatório
+                </small>
+            </div>
+            <div class="p-field margin-input">
+                <label>E-mail</label>
+                <input type="text" placeholder="Digite o e-mail" pInputText id="email" [(ngModel)]="user.email"
+                    required />
+                <small class="p-error" *ngIf="!user.email">
+                    * Campo obrigatório
+                </small>
+            </div>
+            <div class="p-field margin-input">
+                <label>CPF</label>
+                <p-inputMask type="text" placeholder="Digite o CPF" id="cpf" [(ngModel)]="user.cpf"
+                    mask="999.999.999-99">
+                </p-inputMask>
+                <small class="p-error" *ngIf="!user.cpf">
+                    * Campo obrigatório
+                </small>
+            </div>
+            <div class="p-field margin-input">
+                <label>Contato</label>
+                <p-inputMask type="text" placeholder="Digite o contato" id="phone" [(ngModel)]="user.phone"
+                    mask="(99)99999-9999">
+                </p-inputMask>
+                <small class="p-error" *ngIf="!user.phone">
+                    * Campo obrigatório
+                </small>
+            </div>
+        </ng-template>
+        <ng-template pTemplate="footer">
+            <button pButton label="Atualizar" icon="pi pi-check" class="p-button-success"
+                (click)="updateUser(user)"></button>
+            <button pButton label="Cancelar" icon="pi pi-times" class="p-button-danger" (click)="hideDialog()"></button>
+        </ng-template>
+    </p-dialog>
+</p-card>
